@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    src: url('SEGA.TTF');
+}
+@font-face {
+    font-family: 'SUPER MARIO FONT';
+    src: url('SuperMario256.ttf');
+}
+h1{
+    font-family: 'SUPER MARIO FONT';
+    font-weight: 200;
+    color: #0ccac4;
+}
